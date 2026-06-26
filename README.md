@@ -57,6 +57,7 @@ necesaria, pero no suficiente.*
 la IA. Haz clic en la semilla para crecer y haz clic en dos casillas de tierra
 para intercambiarlas.
 
-**▶ [Jugar Bloom Chain](PON-AQUI-TU-ENLACE)**
+**▶ [Jugar Bloom Chain]([https://il-palazzos.itch.io/bloomchain])**
+Contraseña: iguala
 
 <!-- Reemplaza PON-AQUI-TU-ENLACE con la URL de tu juego (itch.io o Vercel). -->
