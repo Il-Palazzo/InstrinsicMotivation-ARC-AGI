@@ -1,5 +1,4 @@
 # InstrinsicMotivation-ARC-AGI
-# InstrinsicMotivation-ARC-AGI
 
 Un agente de **aprendizaje por refuerzo** que aprende a resolver un rompecabezas
 tipo *ARC-AGI* mirando solo los píxeles de la pantalla, usando **motivación
